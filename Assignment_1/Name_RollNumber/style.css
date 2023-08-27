@@ -1,0 +1,28 @@
+.image-container{
+    background-color : rgba(0,0,0,0.5);
+   padding:50px;
+  
+}
+.styled-name {
+    color: white;
+    opacity: 0.8;
+    background-color : #569874; 
+    padding: 50px;
+} 
+.styling {
+    border : solid black;
+    text-align: center;
+    margin: 20px;
+    background-color: yellow;
+    padding: 20px;
+
+} 
+.span_styling{
+    display: inline-block;
+    margin:20px;
+    width: 100px;
+    border: 1px solid black;
+    
+}
+
+ 
